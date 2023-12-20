@@ -16,6 +16,6 @@ I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmarcsalvador&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmarcsalvador&show_icons=true&theme=transparent)
 
 Feel free to explore my repositories. Happy coding! 🚀
