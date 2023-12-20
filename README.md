@@ -15,10 +15,5 @@ I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
 - **Tools:** Git, VSCode,
 
 ## GitHub Stats
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&show_icons=true&theme=midnight-purple" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmarcsalvador&layout=donut&theme=midnight-purple&langs_count=8&card_width=320" />
-</a>
+
 Feel free to explore my repositories. Happy coding! 🚀
