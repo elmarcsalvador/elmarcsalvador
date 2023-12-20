@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 # Hello, World! 👋
 
-I'm [Your Name], a passionate developer from [Your Location].
+I'm Marc, a passionate developer from Earth 🌏.
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmarcsalvador&show_icons=true&theme=radical)
 
 ## Skills
 - Programming Languages: Python, JavaScript
