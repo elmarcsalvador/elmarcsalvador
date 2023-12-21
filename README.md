@@ -1,4 +1,5 @@
-# Hey, Stranger! 👋
+# Hey, Stranger! <img height=50 width-50 src="https://github.com/elmarcsalvador/elmarcsalvador/assets/72746950/4716c74c-767d-46b7-a254-fd1fcf4f1a69" />
+
 
 I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
 
