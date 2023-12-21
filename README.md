@@ -1,4 +1,4 @@
-# Hey, Stranger! <img height=50 width-50 src="https://github.com/elmarcsalvador/elmarcsalvador/assets/72746950/4716c74c-767d-46b7-a254-fd1fcf4f1a69" />
+#  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=alliance&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=252&height=34&lines=Hey%2C+Stranger!" alt="Typing SVG" /></a><img height=50 width-50 src="https://github.com/elmarcsalvador/elmarcsalvador/assets/72746950/4716c74c-767d-46b7-a254-fd1fcf4f1a69" />
 
 
 I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
@@ -10,11 +10,7 @@ I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
 - 🌱 Currently learning and improving my skills.
 - 😄 Pronouns: He/Him
 
-## Skills
-
-- **Programming Languages:** Python, Javascript, C/C++
-- **Database:** MySQL
-- **Tools:** Git, VSCode
+## Tools and Languages
 
 ## GitHub Stats
 <a href="">
