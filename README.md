@@ -11,16 +11,27 @@ I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
 - 😄 Pronouns: He/Him
 
 ## Tools and Languages
-
+<p>
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />          
+</p>       
+          
 ## GitHub Stats
+<p>
 <a href="#">
   <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
 </a>
 <a href="#">
-  <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=compact&card_width=320&theme=midnight-purple" />
+  <img height=200 width=320 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=donut&card_width=320&theme=midnight-purple" />
 </a>
-
+</p>
 <a>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=elmarcsalvador&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align=center src="http://github-readme-streak-stats.herokuapp.com?user=elmarcsalvador&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 Feel free to explore my repositories. Happy coding! 🚀
