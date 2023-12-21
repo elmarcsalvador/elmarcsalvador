@@ -20,7 +20,7 @@ I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
   <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
 </a>
 <a href="">
-  <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+  <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=compact&card_width=320&theme=midnight-purple" />
 </a>
 
 <a>
