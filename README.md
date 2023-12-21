@@ -1,7 +1,7 @@
 # Hey, Stranger! 👋
 
 I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=elmarcsalvador&style=flat-square&color=blueviolet)
 ## About Me
 
 - 💻 I love coding and exploring new technologies.
