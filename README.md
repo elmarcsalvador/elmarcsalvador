@@ -25,11 +25,13 @@ I'm Marc, a passionate developer. Welcome to my GitHub profile! 🚀
 <a href="#">
   <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
 </a>
+<br>
 <a href="#">
   <img height=200 width=320 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=donut&card_width=320&theme=midnight-purple" />
 </a>
-</p>
+<br>
 <a>
   <img align=center src="http://github-readme-streak-stats.herokuapp.com?user=elmarcsalvador&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
+</p>
 Feel free to explore my repositories. Happy coding! 🚀
