@@ -21,20 +21,16 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 </p>       
           
 ## GitHub Stats
-<p>
-<a href="#">
-  <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
-</a>
-<br>
-<a href="#">
-  <img height=200 width=320 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=donut&card_width=320&theme=midnight-purple" />
-</a>
-<br>
-<a>
-  <img align=center src="http://github-readme-streak-stats.herokuapp.com?user=elmarcsalvador&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-<br>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=donut&card_width=320&theme=midnight-purple" />
 </p>
+
+<p align="center">
+  <img height="180" src="http://github-readme-streak-stats.herokuapp.com?user=elmarcsalvador&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
 
 ## Contribution Graph
 
