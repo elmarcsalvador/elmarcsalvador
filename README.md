@@ -35,6 +35,10 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 </a>
 <br>
 </p>
-![Snake animation](https://github.com/elmarcsalvador/elmarcsalvador/blob/output/dist/snake.svg)
+## 🐍 Contribution Graph
+
+![GitHub Snake Light](https://github.com/elmarcsalvador/elmarcsalvador/blob/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/elmarcsalvador/elmarcsalvador/blob/output/snake-dark.svg#gh-dark-mode-only)
+
 <br>
 Feel free to explore my repositories. Happy coding! 🚀
