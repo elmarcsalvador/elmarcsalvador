@@ -21,7 +21,6 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 </p>       
           
 ## GitHub Stats
-## 📊 GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=donut&card_width=320&theme=midnight-purple" />
