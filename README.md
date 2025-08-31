@@ -5,7 +5,7 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 
 ![](https://komarev.com/ghpvc/?username=elmarcsalvador&style=flat-square&color=blueviolet)
 ## About Me
-- 💻 B.Tech Computer Science
+- 💻 B.Tech Computer Science Student
 - 👔 A proud Ex-KVian
 - 🌱 Currently learning C/C++ and Full Stack Web Development
 - 😄 Pronouns: He/Him
