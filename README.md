@@ -33,5 +33,8 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 <a>
   <img align=center src="http://github-readme-streak-stats.herokuapp.com?user=elmarcsalvador&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
+<br>
 </p>
+![Snake animation](https://github.com/elmarcsalvador/elmarcsalvador/blob/output/dist/snake.svg)
+<br>
 Feel free to explore my repositories. Happy coding! 🚀
