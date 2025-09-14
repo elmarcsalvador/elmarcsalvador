@@ -11,15 +11,11 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 - 😄 Pronouns: He/Him
 
 ## Tools and Languages
-<p align='center'>
-<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />          
-</p>       
-          
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,arduino,mysql,vscode,windows,linux" />
+  </a>
+</p>
 ## GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
@@ -31,6 +27,3 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 
 ![GitHub Snake Light](https://github.com/elmarcsalvador/elmarcsalvador/blob/output/snake-light.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/elmarcsalvador/elmarcsalvador/blob/output/snake-dark.svg#gh-dark-mode-only)
-
-<br>
-Feel free to explore my repositories. Happy coding! 🚀
