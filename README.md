@@ -16,6 +16,7 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
     <img src="https://skillicons.dev/icons?i=py,arduino,mysql,vscode,windows,linux" />
   </a>
 </p>
+
 ## GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
