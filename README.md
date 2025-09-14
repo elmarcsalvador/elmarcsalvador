@@ -26,10 +26,6 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=donut&card_width=320&theme=midnight-purple" />
 </p>
 
-<p align="center">
-  <img height="180" src="http://github-readme-streak-stats.herokuapp.com?user=elmarcsalvador&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
 
 ## Contribution Graph
 
