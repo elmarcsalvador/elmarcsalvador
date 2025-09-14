@@ -11,7 +11,7 @@ I'm Marc (I.R.L Abhin), an aspiring and passionate developer who likes to build 
 - 😄 Pronouns: He/Him
 
 ## Tools and Languages
-<p>
+<p align='center'>
 <img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img height=32 width=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
