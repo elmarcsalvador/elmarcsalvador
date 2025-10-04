@@ -5,17 +5,12 @@
 
 "Just a guy who loves to build things for tomorrow by harnessing the knowledge of the past."
 
-![](https://komarev.com/ghpvc/?username=elmarcsalvador&style=flat-square&color=0f0f0f&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER+:&abbreviated=true)
-## About Me
-- 💻 B.Tech Computer Science Student
-- 👔 A proud Ex-KVian
-- 🌱 Currently learning C/C++ and Full Stack Web Development
-- 😄 Pronouns: He/Him
+![](https://komarev.com/ghpvc/?username=elmarcsalvador&style=flat-square&color=41658A&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER+:&abbreviated=true)
 
-## Tools and Languages
+## Tools and SkillSet
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,arduino,mysql,vscode,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=py,arduino,mysql,vscode,windows,linux,arch,bash,flask,git,html,css,js,md,neovim," />
   </a>
 </p>
 
