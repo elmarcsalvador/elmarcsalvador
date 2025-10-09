@@ -7,10 +7,24 @@
 
 ![](https://komarev.com/ghpvc/?username=elmarcsalvador&style=flat-square&color=41658A&style=for-the-badge&label=YOU+ARE+VISITOR+NUMBER+:&abbreviated=true)
 
-## Tools and SkillSet
+## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,arduino,mysql,vscode,windows,linux,arch,bash,flask,git,html,css,js,md,neovim," />
+    <img src="https://skillicons.dev/icons?i=py,arduino,mysql,bash,html,css,js,md" />
+  </a>
+</p>
+
+## Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,selenium,tailwind,bootstrap," />
+  </a>
+</p>
+
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,windows,linux,arch,debian,ubuntu,git,neovim" />
   </a>
 </p>
 
