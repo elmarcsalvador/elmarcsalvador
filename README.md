@@ -30,8 +30,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elmarcsalvador&theme=midnight-purple" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmarcsalvador&layout=donut&card_width=320&theme=midnight-purple" />
+  <img src="https://streak-stats.demolab.com?user=elmarcsalvador&theme=onedark&hide_border=true" alt="elmarcsalvador's GitHub Stats" />
 </p>
 
 
