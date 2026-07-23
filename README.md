@@ -14,13 +14,6 @@
   </a>
 </p>
 
-## Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,selenium,tailwind,bootstrap," />
-  </a>
-</p>
-
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
